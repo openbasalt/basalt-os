@@ -1,7 +1,12 @@
 # Basalt OS
 
-Reserved for a future Linux distribution by [OpenBasalt](https://github.com/openbasalt).
-Its home will be the [basalt-os](https://github.com/basalt-os) organization and
-[basalt-os.org](https://basalt-os.org).
+Basalt OS, a Linux distribution based on Fedora built security and AI first by
+[OpenBasalt](https://openbasalt.org), lives in its own organization. This
+repository only points there.
 
-Nothing to see here yet. Follow the organization for news.
+- Website, roadmap and feedback: [basalt-os.org](https://basalt-os.org)
+- Source: [github.com/basalt-os/basalt-os](https://github.com/basalt-os/basalt-os)
+- Organization: [github.com/basalt-os](https://github.com/basalt-os)
+- Signed packages: [obpkg.org](https://obpkg.org)
+
+Basalt OS is pre-alpha and nothing is released as stable yet.
